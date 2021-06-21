@@ -1,5 +1,5 @@
 {
-    "name": "lightsaml/symfony-bridge",
+    "name": "johnhout/lightsaml-symfony-bridge",
     "license": "MIT",
     "type": "symfony-bundle",
     "description": "Light SAML Symfony bridge bundle",
